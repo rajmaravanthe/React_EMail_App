@@ -1,0 +1,111 @@
+{
+	"user": [
+		{
+			"username": "rajesh",
+			"password": "rajesh",
+			"name": "Rajesh",
+			"email": "r_maravanthe@yahoo.co.in",
+			"inbox": [
+				{
+					"id": 1000002,
+					"from": "rajesh",
+					"username": "santhosh",
+					"email": "rraajjpoojary@gmail.com",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "Mar 15",
+					"attachment": "Mar 15",
+					"unread": true
+				},
+				{
+					"id": 1000003,
+					"from": "rajesh",
+					"username": "mahesh",
+					"email": "rraajjpoojary@gmail.com",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "Mar 15",
+					"attachment": "Mar 15",
+					"unread": true
+				}
+			],
+			"sentitems": [
+				{
+					"id": 1000000,
+					"from": "santhosh",
+					"username": "r_maravanthe",
+					"email": "r_maravanthe@yahoo.co.in",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "",
+					"attachment": "",
+					"unread": true
+				},
+				{
+					"id": 1000001,
+					"from": "santhosh",
+					"username": "r_maravanthe",
+					"email": "r_maravanthe@yahoo.co.in",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "",
+					"attachment": "",
+					"unread": true
+				}
+			]
+		},
+		{
+			"username": "santhosh",
+			"password": "santhosh",
+			"email": "rraajjpoojary@gmail.com",
+			"inbox": [
+				{
+					"id": 1000000,
+					"from": "santhosh",
+					"username": "r_maravanthe",
+					"email": "r_maravanthe@yahoo.co.in",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "",
+					"attachment": "",
+					"unread": true
+				},
+				{
+					"id": 1000001,
+					"from": "santhosh",
+					"username": "r_maravanthe",
+					"email": "r_maravanthe@yahoo.co.in",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "",
+					"attachment": "",
+					"unread": true
+				}
+			],
+			"sentitems": [
+				{
+					"id": 1000002,
+					"from": "rajesh",
+					"username": "santhosh",
+					"email": "rraajjpoojary@gmail.com",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "Mar 15",
+					"attachment": "Mar 15",
+					"unread": true
+				},
+				{
+					"id": 1000003,
+					"from": "rajesh",
+					"username": "mahesh",
+					"email": "rraajjpoojary@gmail.com",
+					"subject": "simply",
+					"body": "yeah sent like this!",
+					"datetime": "Mar 15",
+					"attachment": "Mar 15",
+					"unread": true
+				}
+			]
+		}
+	]
+}

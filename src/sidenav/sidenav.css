@@ -1,0 +1,57 @@
+.mailbox {
+    position: relative;
+    margin-left: 45px;
+    padding: 13px;
+    margin-top: -10px;
+}
+
+.nav {
+    background: #2c3e50;
+    color: #FFF; 
+    width: 15%; 
+    position: relative;
+    /* //220px; */
+    
+}
+.dpLRPu {
+    padding-right: 0px !important;
+}
+
+.nav div {
+    pointer-events: none;
+}
+
+.submenu {
+    padding: 6px;
+}
+
+.personal-info {
+    padding: 10px;
+    margin: 6px;
+}
+
+.image {
+    background-image: url('../assets/images/raj.png');
+    width: 54px;
+    height: 59px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin: 14px;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.toggle {
+    padding: 13px;
+    background-color: #2F4F4F;
+    pointer-events: auto !important;
+    cursor: pointer !important;
+}
+
+.mail {
+    background-color: #2F4F4F;
+    pointer-events: auto !important;
+    cursor: pointer !important;
+}
